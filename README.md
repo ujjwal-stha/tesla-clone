@@ -1,24 +1,24 @@
-Tesla Clone
+# Tesla Clone
 
 This is a Tesla Clone Built using React, Redux and Styled Components
 
-Live Demo 🚀🚀🚀
+# Live Demo 🚀🚀🚀
 
 https://tesla-clone-b501f.web.app/
 
-Technologies
+# Technologies
 
-->React
-->Redux
-->Styled Components
-->react-reveal
-->Material UI Icons
+- React
+- Redux
+- Styled Components
+- react-reveal
+- Material UI Icons
 
-Platform
+# Platform
 
-->Firebase
+- Firebase
 
-Setup
+# Setup
 
 To clone and run this app, you'll need git and Node js also installed on your PC.
 
@@ -38,5 +38,7 @@ $ npm install
 
 $ npm start
 
-Credit: Clever Programmer(CP) Team
+# Credit
+
+Clever Programmer(CP) Team
 I would especially like to thank CP Team and Naz(CP member) for this project and Click <a href="https://www.youtube.com/watch?v=lUeS9Wsj6dk">Here</a> to check out the video
